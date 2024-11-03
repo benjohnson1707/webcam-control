@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/benjohnson1707/webcam-control.git/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/benjohnson1707/webcam-control.git/static/js/main.62c96968.chunk.js",
-    "main.js.map": "/benjohnson1707/webcam-control.git/static/js/main.62c96968.chunk.js.map",
-    "runtime-main.js": "/benjohnson1707/webcam-control.git/static/js/runtime-main.a0969e24.js",
-    "runtime-main.js.map": "/benjohnson1707/webcam-control.git/static/js/runtime-main.a0969e24.js.map",
-    "static/js/2.e951d4e8.chunk.js": "/benjohnson1707/webcam-control.git/static/js/2.e951d4e8.chunk.js",
-    "static/js/2.e951d4e8.chunk.js.map": "/benjohnson1707/webcam-control.git/static/js/2.e951d4e8.chunk.js.map",
-    "static/js/3.331ae4c8.chunk.js": "/benjohnson1707/webcam-control.git/static/js/3.331ae4c8.chunk.js",
-    "static/js/3.331ae4c8.chunk.js.map": "/benjohnson1707/webcam-control.git/static/js/3.331ae4c8.chunk.js.map",
-    "index.html": "/benjohnson1707/webcam-control.git/index.html",
-    "precache-manifest.43dff1dbc0b552b3c374638c78670363.js": "/benjohnson1707/webcam-control.git/precache-manifest.43dff1dbc0b552b3c374638c78670363.js",
-    "service-worker.js": "/benjohnson1707/webcam-control.git/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/benjohnson1707/webcam-control.git/static/css/main.435d5fe5.chunk.css.map",
-    "static/js/2.e951d4e8.chunk.js.LICENSE.txt": "/benjohnson1707/webcam-control.git/static/js/2.e951d4e8.chunk.js.LICENSE.txt"
+    "main.css": "/webcam-control/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/webcam-control/static/js/main.62c96968.chunk.js",
+    "main.js.map": "/webcam-control/static/js/main.62c96968.chunk.js.map",
+    "runtime-main.js": "/webcam-control/static/js/runtime-main.34077be9.js",
+    "runtime-main.js.map": "/webcam-control/static/js/runtime-main.34077be9.js.map",
+    "static/js/2.e951d4e8.chunk.js": "/webcam-control/static/js/2.e951d4e8.chunk.js",
+    "static/js/2.e951d4e8.chunk.js.map": "/webcam-control/static/js/2.e951d4e8.chunk.js.map",
+    "static/js/3.331ae4c8.chunk.js": "/webcam-control/static/js/3.331ae4c8.chunk.js",
+    "static/js/3.331ae4c8.chunk.js.map": "/webcam-control/static/js/3.331ae4c8.chunk.js.map",
+    "index.html": "/webcam-control/index.html",
+    "precache-manifest.41428ff5c0724533f3981e04f2e4ab60.js": "/webcam-control/precache-manifest.41428ff5c0724533f3981e04f2e4ab60.js",
+    "service-worker.js": "/webcam-control/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/webcam-control/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.e951d4e8.chunk.js.LICENSE.txt": "/webcam-control/static/js/2.e951d4e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0969e24.js",
+    "static/js/runtime-main.34077be9.js",
     "static/js/2.e951d4e8.chunk.js",
     "static/css/main.435d5fe5.chunk.css",
     "static/js/main.62c96968.chunk.js"
